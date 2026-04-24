@@ -1,5 +1,3 @@
-# Calorie-Tracking-App
-An app that tracks daily calorie intake vs goals.
 # Calorie Tracker App
 
 A simple, intuitive calorie tracking application that helps users monitor daily food intake, set nutrition goals, and maintain a healthier lifestyle.
